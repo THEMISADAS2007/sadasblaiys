@@ -1,5 +1,5 @@
 {
-  "name": "darksadas-new-baliyes",
+  "name": "asitha-baliyes-new",
   "version": "7.0.0",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/THEMISADAS2007/sadasblaiys",
+  "homepage": "https://github.com/asithamd173/ASITHA-MD-BALIYES",
   "repository": {
-    "url": "git+ssh://git@github.com/THEMISADAS2007/sadasblaiys.git"
+    "url": "git+ssh://git@github.com/asithamd173/ASITHA-MD-BALIYES.git"
   },
   "license": "MIT",
-  "author": "sadas",
+  "author": "Mr Asitha",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
